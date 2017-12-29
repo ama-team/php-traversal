@@ -1,0 +1,11 @@
+{
+  "name": "ama-team/traversal",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AMA Team",
+      "email": "dev@amagroup.ru"
+    }
+  ],
+  "require": {}
+}
